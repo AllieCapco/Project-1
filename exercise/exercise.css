@@ -1,0 +1,29 @@
+.jumb {
+  /* height: 100vh; */
+  background-image: url("pics/why.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+.navbr {
+  position: fixed;
+}
+
+.guide {
+  /* background-color: pink; */
+  text-align: center;
+}
+
+.jumb2 {
+  background-image: url("pics/dusk-5.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: black;
+}
+
+.cont {
+  background-color: pink;
+}
